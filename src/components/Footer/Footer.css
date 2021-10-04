@@ -1,0 +1,13 @@
+footer{
+    background-color: #0d473e;
+    padding: 50px;
+    color: #838383;
+}
+footer p{
+    margin: 0;
+    padding: 0;
+}
+.social-icon{
+    color: white;
+    font-size: 30px;
+}

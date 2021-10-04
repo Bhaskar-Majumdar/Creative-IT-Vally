@@ -1,0 +1,27 @@
+.banner-pic{
+    width: 450px;
+    height: 400px;
+}
+.banner-container{
+    margin:100px 0;
+}
+.banner-heading{
+    font-size: 5rem;
+    font-weight: 700;
+    background:#0b0f14;
+    background-clip: text;
+}
+.banner-text {
+    font-size: 1.3rem;
+    color: #111111;
+    margin: auto;
+}
+@media only screen and (max-width: 600px) {
+    .banner-pic{
+        width: 330px;
+        height: 445px;
+    }
+    .banner-heading{
+        font-size: 3rem;
+    }
+  }

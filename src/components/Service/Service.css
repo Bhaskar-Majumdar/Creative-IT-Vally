@@ -1,0 +1,55 @@
+.service-heading{
+    font-size: 4rem;
+    font-weight: 700;
+    background:#0e2946;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.service-paragraph{
+    font-size: 1.7rem;
+    color: #241a1a;
+}
+.service-title{
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #131212;
+}
+.service-text {
+    font-size: 1rem;
+    color: #272525;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.service-card:hover .price-text{
+    color: rgb(15, 15, 15);
+}
+.card-pic{
+    width: 290px;
+    height: 377px;
+    margin:10px auto;
+}
+.service-card{
+    width: 360px;
+    height: 580px;
+    background-color: #5bc3c7;
+    color: rgb(24, 23, 23);
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    
+    
+}
+.service-card:hover{
+    transform: translateY(-20px);
+    background: linear-gradient(#6debc1, #1CDEE9);
+    transition: 1.5s ease;
+    cursor: pointer;   
+}
+.service-card:hover .service-text{
+    color: rgb(19, 18, 18);  
+}
+@media only screen and (max-width: 600px) {
+    .service-card,.service-card img{
+        width: 80%;
+        margin: 20px auto;
+    }
+  }

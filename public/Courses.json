@@ -1,0 +1,86 @@
+[
+    {
+        "name": "C Programming",
+        "profession": "Principal and Founder",
+        "education": "B.S.S(Hons),M.S.S English (DU)",
+        "mobile": "01773458690",
+        "email": "giasuddin@gmail.com",
+        "salary": 70000,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_68.jpg"
+    },
+    {
+        "name": "Mosaddek Hossain",
+        "profession": "Vice Principal",
+        "education": "B.com Hon's, M.com, MBA, MPA(DU)",
+        "mobile": "01874450990",
+        "email": "mhossain@gmail.com",
+        "salary": 56000,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_85.jpg"
+    },
+    {
+        "name": "Md Omar Faruk",
+        "profession": "Assistant Professor Bangla",
+        "education": "B.Sc, M.Sc(DU)",
+        "mobile": "01728359140",
+        "email": "faruk@gmail.com",
+        "salary": 45000,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_91.jpg"
+    },
+    {
+        "name": "Md Abu Taleb",
+        "profession": "Assistant Professor English",
+        "education": "B.Sc, M.Sc English",
+        "mobile": "01913500375",
+        "email": "talebabu@gmail.com",
+        "salary": 45000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_73.jpg"
+    },
+    {
+        "name": "Md Abadul Hoque",
+        "profession": "Assistant Professor Math",
+        "education": "B.Sc, M.Sc Applied Math(JU)",
+        "mobile": "01816436261",
+        "email": "abadulhq@gmail.com",
+        "salary": 45000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_102.jpg"
+    },
+    {
+        "name": "Shihab Uddin",
+        "profession": "Lecturer in Physics",
+        "education": "B.Sc, M.Sc Applied Physics (JNU)",
+        "mobile": "01798164307",
+        "email": "shihab66@gmail.com",
+        "salary": 32000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_109.jpg"
+    },
+    {
+        "name": "Sagor Kumar Das",
+        "profession": "Lecturer in ICT",
+        "education": "B.Sc, M.Sc in CSE (DIU)",
+        "mobile": "01749035155",
+        "email": "sagordas@gmail.com",
+        "salary": 27000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_126.jpg"
+    },
+    {
+        "name": "Md Ashaduzzaman",
+        "profession": "Lecturer in Statistics",
+        "education": "B.Sc, M.Sc (DC)",
+        "mobile": "01724069798",
+        "email": "asadiustat@gmail.com",
+        "salary": 29000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/react.jpg"
+    },
+    {
+        "name": "Md Manirul",
+        "profession": "Lecturer in Biology",
+        "education": "B.Sc, M.Sc in Botany (DU)",
+        "mobile": "01670134686",
+        "email": "manirmsc@gmail.com",
+        "salary": 28000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/js.png"
+    }
+]
