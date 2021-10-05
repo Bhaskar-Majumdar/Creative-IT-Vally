@@ -8,10 +8,9 @@ const Footer = () => {
                     <h3>CREATIVE ICT VALLY BD</h3>
                 </div>
                 <div className="row text-center">
-                    <p className="text-white mb-2">Information, Support,  Contact</p>
-                    <p className="text-white mb-3">Terms of use, Privacy policy</p>
+                    <p className="text-white mb-2">Information, Learn, Support, Contact</p>
+                    <p className="text-white mb-2">Privacy policy, Terms with condition</p>
                     <p>© 2021 Creative ICT Vally BD Powered by Bhaskar!!</p>
-
                 </div>
             </div>
         </footer>

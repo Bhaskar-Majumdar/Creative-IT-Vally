@@ -6,8 +6,8 @@ const Contact = () => {
 
         <div className="container contact-container">
             <div className="box">
-                <h1 className="mb-3">How Can We Help?</h1>
-                <p className=" mb-5">Talk to one of our consultants today and learn how to start leveraging your Study.</p>
+                <h1 className="mb-3">Contact Our Supporting Team</h1>
+                <p className=" mb-5">Talk to one of our consultants today and learn how to start your online course</p>
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="card text-center p-5 contact-card" >
@@ -31,9 +31,7 @@ const Contact = () => {
                         <div className="card text-center contact-card p-5" >
                             <div className="p-2">
                                 <h4 className="card-title mb-3">Mirpur 10, H-63/3</h4>
-
                                 <h6 className="">Visit Our Office from 10:00 am to 4:00 pm. Withput Holydays.</h6>
-
                             </div>
                         </div>
                     </div>
@@ -42,9 +40,10 @@ const Contact = () => {
             </div>
 
 
-            <div style={{ margin: "68px 0" }}>
-                <h2 className="text-center">Feedback/Queries</h2>
-                <div>
+
+            <div className="form">
+                <div style={{ margin: "65px 0" }}>
+                    <h2 className="text-center">Feedback/Queries</h2>
                     <Container>
                         <Form>
                             <Row>
@@ -77,7 +76,7 @@ const Contact = () => {
                                     rows={3}
                                 />
                             </Form.Group>
-                            <Button className="mb-5" variant="primary" type="submit">
+                            <Button className="mb-3" variant="primary" type="submit">
                                 Submit
                             </Button>
                         </Form>

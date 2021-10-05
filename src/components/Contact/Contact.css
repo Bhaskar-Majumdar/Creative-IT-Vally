@@ -1,7 +1,6 @@
 
-
 .box{
-    background-color: #faebd7;
+    background-color: #e4b981;
 }
 .contact-container{
     padding: 100px 0;
@@ -12,14 +11,12 @@
     transition: .7s;
     cursor: pointer;
 }
-.contact-card:hover .icon{
-    color: white;
-    transition: .5s;
+.form{
+    background-color: #e4b981;
 }
 @media only screen and (max-width: 600px) {
     .contact-container{
-        width: 80%;
-        
+        width: 80%;  
     }
     .contact-card{
         margin: 20px auto;

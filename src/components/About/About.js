@@ -9,28 +9,28 @@ const About = () => {
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         width: '100%',
-        height: '100vh'
+        height: '80vh'
     };
     return (
         <div>
             <div className="about-us-section" style={styles}>
-                <h1 className="text-center about-heading p-5">About Us</h1>
+                <h1 className="text-center about-heading p-3">About Us</h1>
             </div>
 
             <div className="container">
-                <div className="row py-5 my-5">
-                    <h1 className="text-center mb-5 ">WELCOME TO CREATIVE ICT VALLY</h1>
+                <div className="row py-5">
+                    <h1 className="text-center mb-4">WELCOME TO CREATIVE ICT VALLY</h1>
                     <div className="col-lg-6">
-                        <h3>About Us</h3>
-                        <p>There are countless online education marketplaces on the internet. And there’s us. We are not the biggest. We are not the cheapest. But we are the fastest growing. We have the highest course completion rate in the industry.</p>
-                        <p>And the reason is, we don’t give up. When a student commits to a course, we commit to the student. We are not going to sugar coat it - we will make you complete, come what may. You may not have given much thought to what you are signing up for, but we believe you are signing up for knowledge that is useful and complete. We are ridiculously committed to our students. Be it constant reminders, relentless masters or 24 x 7 online support - we will absolutely make sure that you run out of excuses to not complete the course.</p>
+                        <h2>About Us</h2>
+                        <p>Practice makes perfect.To become a better developer, you need to practice coding your program language. Many online programming courses offer free tutorials with videos and lectures. However, those can only take you so far. Coding challenges will give you a better experience since you apply your knowledge to the real thing.</p>
+                        <p>And the reason is, we don’t give up. When a student commits to a course, we commit to the student. Students learn about the basic function and components of computers. Individuals are taught how to build and disassemble computers, install operating systems and perform hardware and software upgrades. This course also teaches participants how to troubleshoot common firmware and hardware problems. We will support our student with extra time and we arranged regularly supporting session for our student.</p>
                     </div>
                     <div className="col-lg-6">
-                        <h3>Our Vision</h3>
-                        <p>To become the largest online learning ecosystem for continuing education, in partnership with corporates and academia.</p>
+                        <h2>Our Vision</h2>
+                        <p>The main focus of our online course is to connect the young people of our country in the IT sector and turn them into skilled manpower. There is no alternative to improving the IT sector in the current world. If we do these course, we hope that your talent and work will develop.</p>
                         <br />
-                        <h3>Our Mission</h3>
-                        <p>To create an alternate platform for students who wish to continue and complete courses by attending live online courses, using a team of ridiculously committed educators who will stop at nothing to impart education, helped by a 24 x 7 support system. By deploying our world class team of industry experts, we aim to educate our learners with the skills they need to advance their professional life to the next level.</p>
+                        <h2>Our Mission</h2>
+                        <p>Code powers our digital world. Every website, smartphone app, computer programme, calculator and even microwave relies on code in order to operate. This makes coders the architects and builders of the digital age. Our mission to involved huge number of student with IT sector and create their good skills. </p>
                     </div>
                 </div>
             </div>
